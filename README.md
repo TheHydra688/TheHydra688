@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @TheHydra688
-- 👀 I’m interested in ...Learning to code! I'm in my early 40s so starting a little bit late but hoping to pick things up! I'm starting with Python and hoping to learn other languages onces I'm au fait with Python!
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...I'm a little unsure about collaboration as yet. I need to learn the ropes before diving fully in.
+- 👋 Hi, I’m @TheHydra688 (Tom)
+- 👀 I’m interested in ...AI, particularly generative AI. I have an interest in LLMs, GANs and CV. I also have an interest in cloud architecture and leveraging cloud operations for AI.
+- 🌱 I’m currently learning ...Python, C++, AWS, Azure, CUDA programming.
 - 📫 How to reach me ...I can be reached at tomsimpson25@gmail.com
 
 <!---
